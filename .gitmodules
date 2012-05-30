@@ -90,3 +90,7 @@
 	path = bundle/bufexplorer
 	url = git://github.com/slack/vim-bufexplorer.git
   ignore = dirty
+[submodule "bundle/jsbeautify"]
+	path = bundle/jsbeautify
+	url = git://github.com/vim-scripts/jsbeautify.git
+  ignore = dirty
