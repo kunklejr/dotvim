@@ -94,3 +94,6 @@
 	path = bundle/jsbeautify
 	url = git://github.com/vim-scripts/jsbeautify.git
   ignore = dirty
+[submodule "bundle/gitgutter"]
+	path = bundle/gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
